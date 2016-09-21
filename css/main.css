@@ -1,0 +1,97 @@
+.cajauno{
+	margin-bottom:0;
+}
+
+/*caja azul*/
+.cajados{
+	background-image: url(../img/home.jpg);
+	background-size: 100%;
+	height: 560px;
+	padding-top: 15%;
+	background-repeat: no-repeat;
+}
+
+.cajainterior{
+	text-align: center;
+}
+
+.cajainterior h1{
+	color: white;
+}
+
+.cajainterior button, .cajacuatro button{
+	background-color: #337ab7;
+	color: white;
+	border:1px solid transparent;
+	border-radius: 10%;
+	padding:2% 2%;
+	width: 20%;
+}
+
+/* cajatres video*/
+.cajatres{
+	padding:5% 0% 5% 0%;
+}
+.titulo{
+	padding-bottom: 5%;
+}
+
+.caja3izq h3{
+	text-align: center;
+	padding-top: 4%;
+	padding-bottom:4%;
+}
+.caja3izq p{
+	font-size: 98%;
+}
+
+/*cajaamarilla*/
+.cajacuatro{
+	background-color: #ffff00;
+}
+.cajacuatro img{
+	width: 98%;
+}
+
+.c4{
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
+.caja4der{
+	padding-top:2%;
+}
+
+.caja4der h2{
+	text-align: center;
+	padding-bottom: 5%;
+}
+
+/*caja cinco*/
+.c5{
+	padding-top: 3%;
+	padding-bottom: 5%;
+}
+.caja5izq img{
+	background-size: 100%;
+	margin-top:10%;
+}
+
+.caja5der h2{
+margin-left: 5%;
+margin-bottom: 6%;
+}
+.caja5der p{
+	margin-bottom: 0.5%;
+}
+
+.c5btn{
+	margin-top: 5%;
+}
+
+/*footer*/
+.cajaseis{
+	background-color: #4497a3;
+	padding:3%;
+	color: white;
+}
